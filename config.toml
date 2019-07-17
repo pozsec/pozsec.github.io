@@ -1,0 +1,10 @@
+baseURL = "http://pozsec.github.io/"
+languageCode = "pl-pl"
+title = "Poznań Security Meetup"
+theme = "purehugo"
+Paginate = 10
+
+[params]
+  twitterName = "PozSec"
+  githubName = "pozsec"
+  description = "O bezpieczeństwie, w Poznaniu"
